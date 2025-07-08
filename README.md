@@ -11,6 +11,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="60" alt="git logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="60" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="60" alt="linux logo"  />
